@@ -35,7 +35,7 @@ The project requires the following Python libraries:
 
 ## Steps Involved In Analysis
 
-1. **Probelm** : Classify the reviews of movies into either a positive sentiment or a negative sentiment review.
+1. **Problem** : Classify the reviews of movies into either a positive sentiment or a negative sentiment review.
 
 2. **Import the required packages and Load the data:** We utilize the IMDB dataset, which contains a large collection of movie reviews labeled with their corresponding sentiment (positive or negative). We import the necessary packages such as numpy, pandas, scikit-learn models and metrics, nltk.
 
